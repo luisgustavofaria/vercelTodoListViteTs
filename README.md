@@ -1,3 +1,9 @@
+#Iniciar Frontend
+npm run dev
+
+#Iniciar Backend
+npm run dev:server
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
