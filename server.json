@@ -1,0 +1,39 @@
+{
+  "todoList": [
+    {
+      "id": "1",
+      "title": "primeiro",
+      "description": "tarefa",
+      "isFavorited": true,
+      "color": "#A99A7C"
+    },
+    {
+      "id": "2",
+      "title": "segundo",
+      "description": "tarefa",
+      "isFavorited": false,
+      "color": "#FFCAB9"
+    },
+    {
+      "id": "3",
+      "title": "terceiro",
+      "description": "tarefa",
+      "isFavorited": false,
+      "color": "#DAFF8B"
+    },
+    {
+      "id": "98975ca2-a766-4ef6-a608-eed776bc9e97",
+      "title": "bbbbbbbbbbbbbbbbbbbbb",
+      "description": "aabbbbbbbbbbbbbbbbbbbbb",
+      "isFavorited": false,
+      "color": "#A99A7C"
+    },
+    {
+      "id": "c440e9de-d78d-4345-a56b-9d20c76ca30f",
+      "title": "aaa",
+      "description": "aaa",
+      "isFavorited": false,
+      "color": "white"
+    }
+  ]
+}
